@@ -10,3 +10,8 @@ This repository is designed for multiple standard server rack compatible modules
 * Builtin 5V Fan to cool down LDOs
 * Builtin ESP32 for addressable LED strip support
 * Designed to print on 250mm x 160mm Print Bed
+
+## Roadmap
+* Milestones: Designed Hardware
+* Milestones: Fabricated Hardware
+* Work In Progress: Code Microcontroller
