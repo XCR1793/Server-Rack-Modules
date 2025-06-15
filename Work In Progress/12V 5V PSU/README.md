@@ -1,7 +1,9 @@
 # 12V 5V PSU
 This repository is designed for multiple standard server rack compatible modules such as a PSU.
 
-![Project_Image](.assets/12V%205V%20PSU.png)
+<!-- ![Project_Image](.assets/12V%205V%20PSU.png) -->
+![CAD_Image](.assets/Corner%20View.JPG)
+![Project_Image](.assets/Front%20View.JPG)
 
 ## Features
 * 12V 10A output
